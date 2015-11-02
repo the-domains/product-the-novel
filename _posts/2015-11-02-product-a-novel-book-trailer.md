@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Ian McCain
-    url: 'https://www.youtube.com/user/ismcrazy'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=i-LI0cdPui0'
+inLanguage: en
+starred: true
 keywords:
   - duration
   - trailer
@@ -21,7 +17,13 @@ keywords:
   - sigler
   - goodreads
 description: "Get your Copy on Amazon.com: http://amzn.to/18L0zRT 4.9 star review on Amazon.com 4.87star review on Goodreads.com Ernie Chase isn't just one of the infected. He's one of their runners. His job is simple; get the product to the other infected and keep the killing off the streets."
-inLanguage: en
+datePublished: '2015-11-02T03:13:00.261Z'
+dateModified: '2015-11-02T03:12:57.127Z'
+author:
+  - name: Ian McCain
+    url: 'https://www.youtube.com/user/ismcrazy'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=i-LI0cdPui0&feature=applinks'
     type: ios
@@ -33,17 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'http://www.youtube.com/watch?v=i-LI0cdPui0&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=i-LI0cdPui0'
 title: Product (a novel) Book Trailer
-datePublished: '2015-11-02T02:58:25.052Z'
-dateModified: '2015-11-02T02:58:20.812Z'
 sourcePath: _posts/2015-11-02-product-a-novel-book-trailer.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
 authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
