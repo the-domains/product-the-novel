@@ -9,10 +9,10 @@ publisher:
 keywords: []
 description: 'Check out this GoDaddy hosted webpage! http://iansmccain.com.'
 app_links: []
-isBasedOnUrl: 'http://iansmccain.com/'
+isBasedOnUrl: 'http://iansmccain.com/#'
 title: Ian S McCain
-datePublished: '2015-11-02T02:46:27.234Z'
-dateModified: '2015-11-02T02:42:52.556Z'
+datePublished: '2015-11-02T02:46:27.244Z'
+dateModified: '2015-11-02T02:43:02.122Z'
 sourcePath: _posts/2015-11-02-ian-s-mccain.md
 published: true
 inFeed: true
