@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Product Line]]></title>
         <description><![CDATA[The Product Line]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/product-the-novel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 02:32:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 Nov 2015 02:46:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/product-the-novel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Product Ian S Mc Cain]]></title>
+            <description><![CDATA[<article><h1>Product Ian S Mc Cain</h1><p>Available in: NOOK Book (eBook). Fifty-year-old Ernie Chase is just another liquor-soaked husk wandering the streets of New York City looking for his next</p><img src="http://prodimage.images-bn.com/pimages/2940148469094_p0_v1_s118x184.jpg"></article>]]></description>
+            <link>http://www.barnesandnoble.com/w/product-ian-s-mc-cain-ian-mccain/1117014061</link>
+            <guid isPermaLink="false">36a15452-fc85-466b-929f-21e8c3dba1e5</guid>
+            <pubDate>Mon, 02 Nov 2015 02:46:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/product-the-novel/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">14181bb4-9369-4226-9fe6-e393b759d801</guid>
             <pubDate>Mon, 02 Nov 2015 02:31:59 GMT</pubDate>
         </item>
