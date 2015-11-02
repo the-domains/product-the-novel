@@ -1,0 +1,23 @@
+name: Product The Novel
+favicon: null
+layout_spectrum: 0.6466350639238954
+typography_spectrum: 0.04725423757918179
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9310349326115102
+  lightness: 0.3520363934803754
+  saturation: 0.8485545271541923
+  rhythmicContrast: 0.04555203812196851
+purpose: []
