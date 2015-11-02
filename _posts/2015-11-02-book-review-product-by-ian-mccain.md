@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://iabookreviews.com'
   name: Indie Author Book Reviews
-  favicon: 'http://iabookreviews.com/favicon.ico'
   domain: iabookreviews.com
+  url: 'http://iabookreviews.com'
+  favicon: 'http://iabookreviews.com/favicon.ico'
 keywords:
   - ernie
   - vampires
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://iabookreviews.com/book-review-product-by-ian-mccain/'
 title: 'Book Review: Product by Ian McCain'
-datePublished: '2015-11-02T02:54:53.710Z'
-dateModified: '2015-11-02T02:52:19.155Z'
+datePublished: '2015-11-02T02:58:08.000Z'
+dateModified: '2015-11-02T02:58:00.052Z'
 sourcePath: _posts/2015-11-02-book-review-product-by-ian-mccain.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
