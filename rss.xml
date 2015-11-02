@@ -4,7 +4,7 @@
         <description><![CDATA[The Product Line]]></description>
         <link>https://thegrid.ai/product-the-novel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 02:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2015 02:56:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/product-the-novel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ian S McCain]]></title>
@@ -12,6 +12,13 @@
             <link>http://iansmccain.com/#</link>
             <guid isPermaLink="false">b73d7d15-e7ca-4e15-9114-3ca0e2278b28</guid>
             <pubDate>Mon, 02 Nov 2015 02:47:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://ecx.images-amazon.com/images/I/41Ah9J6HxFL._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX324_SY324_PIkin4,BottomRight,1,22_AA346_SH20_OU02_.jpg">]]></description>
+            <link>https://thegrid.ai/product-the-novel/c535dc46-cdfa-40e3-b9b4-e16a848741f8/index.html</link>
+            <guid isPermaLink="false">c535dc46-cdfa-40e3-b9b4-e16a848741f8</guid>
+            <pubDate>Mon, 02 Nov 2015 02:54:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Product by Ian S. McCain- a Novel Review]]></title>
@@ -68,13 +75,6 @@
             <link>http://iansmccain.com/</link>
             <guid isPermaLink="false">f6377cba-6d2f-4cf7-a4b7-10291a200e06</guid>
             <pubDate>Mon, 02 Nov 2015 02:46:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Product (a novel) Book Trailer]]></title>
-            <description><![CDATA[<article><h1>Product (a novel) Book Trailer</h1><p>Get your Copy on Amazon.com: http://amzn.to/18L0zRT 4.9 star review on Amazon.com 4.87star review on Goodreads.com Ernie Chase isn't just one of the infected. He's one of their runners. His job is simple; get the product to the other infected and keep the killing off the streets.</p><img src="https://i.ytimg.com/vi/i-LI0cdPui0/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=i-LI0cdPui0</link>
-            <guid isPermaLink="false">ac1fbbac-125b-4686-acfc-a28fe16ad0a2</guid>
-            <pubDate>Mon, 02 Nov 2015 02:46:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
