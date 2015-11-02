@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - trailer
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=i-LI0cdPui0'
 title: Product (a novel) Book Trailer
-datePublished: '2015-11-02T02:46:17.120Z'
-dateModified: '2015-11-02T02:44:08.045Z'
+datePublished: '2015-11-02T02:58:25.052Z'
+dateModified: '2015-11-02T02:58:20.812Z'
 sourcePath: _posts/2015-11-02-product-a-novel-book-trailer.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
