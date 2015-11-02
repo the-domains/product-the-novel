@@ -2,22 +2,25 @@
 author: []
 related: []
 publisher:
-  url: 'http://iansmccain.com'
   name: Iansmccain
-  favicon: 'http://img1.wsimg.com/ip/v1.2.0/images/favicon.ico'
   domain: iansmccain.com
+  url: 'http://iansmccain.com'
+  favicon: 'http://img1.wsimg.com/ip/v1.2.0/images/favicon.ico'
 keywords: []
 description: 'Check out this GoDaddy hosted webpage! http://iansmccain.com.'
 app_links: []
 isBasedOnUrl: 'http://iansmccain.com/#'
 title: Ian S McCain
-datePublished: '2015-11-02T02:46:27.244Z'
-dateModified: '2015-11-02T02:43:02.122Z'
+datePublished: '2015-11-02T02:47:05.093Z'
+dateModified: '2015-11-02T02:46:57.626Z'
 sourcePath: _posts/2015-11-02-ian-s-mccain.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
