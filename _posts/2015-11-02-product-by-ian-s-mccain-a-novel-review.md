@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://yakmax.com'
   name: Yakmax
-  favicon: 'http://yakmax.com/wp-content/themes/0viy85ffo5/images/favicon.ico'
   domain: yakmax.com
+  url: 'http://yakmax.com'
+  favicon: 'http://yakmax.com/wp-content/themes/0viy85ffo5/images/favicon.ico'
 keywords:
   - mccain
   - character
@@ -25,13 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://yakmax.com/product-by-ian-s-mccain-a-novel-review/'
 title: Product by Ian S. McCain- a Novel Review
-datePublished: '2015-11-02T02:54:53.922Z'
-dateModified: '2015-11-02T02:49:30.393Z'
+datePublished: '2015-11-02T02:59:30.097Z'
+dateModified: '2015-11-02T02:59:24.198Z'
 sourcePath: _posts/2015-11-02-product-by-ian-s-mccain-a-novel-review.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
