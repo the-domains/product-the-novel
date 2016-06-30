@@ -1,6 +1,6 @@
 name: Product The Novel
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.59
 typography_spectrum: 0.25513
 title: The Product Line
 cta:
@@ -22,8 +22,8 @@ color:
     - '#806459'
     - '#ae927c'
     - '#f4f1ea'
-  brandStrength: 1
-  lightness: 0.9375
-  saturation: 1
-  rhythmicContrast: 0.75
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
